@@ -1,9 +1,12 @@
+## Running the binary
 Firt thing i do is open .exe and see what its going to behave. Thats what program is outputing:
 
 ![](screenshots/level1.1.png)
 
 After trying to input something program ends immediately, maybe its printing out if i succesfully logged in or no but loop ends because it have no sleep or anything to stop loop from ending.
-But now i can see the message its outputing so lets try put it in IDA and check for that strings.
+
+## Dissasembling with IDA
+Lets put it in IDA and see if im right.
 
 ![](screenshots/level1.2.png)
 
@@ -39,5 +42,3 @@ Of course its gonna be wrong but now we know password is : CTF{CongratuLations-U
 CTF{CongratuLations-U_$olved-the-first_Level!}
 
 ![](screenshots/level1.8.png)
-
-![](screenshots/level1.9.png)
