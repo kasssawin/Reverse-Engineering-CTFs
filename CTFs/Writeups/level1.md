@@ -33,6 +33,9 @@ second one is our password we entered: 12345
 
 ![alt text](image-7.png)
 
-Of course its gonna be wrong but now we know password is : ##flag CTF{CongratuLations-U_$olved-the-first_Level!}
+Of course its gonna be wrong but now we know password is : CTF{CongratuLations-U_$olved-the-first_Level!}
+
+## flag
+CTF{CongratuLations-U_$olved-the-first_Level!}
 
 ![alt text](image-8.png)
