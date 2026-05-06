@@ -13,8 +13,6 @@ Lets put it in IDA and see if im right.
 Nice! I can clearly see message i saw earlier. Also i was right about printing statement if flag is correct
 Lets take a look at this string and where and when is it used.
 
-![][screenshots/level1.1.png]
-
 After checking xrefs we can see in what function is it used in. Lets check that out thats where password logic is.
 
 ![](screenshots/level1.3.png)
